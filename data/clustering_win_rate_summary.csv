@@ -1,0 +1,3 @@
+clustering_level,clustered_win_rate,number_of_parameter_settings,mean_strategy_difference,mean_average_clustering
+highly_clustered,0.5,40,0.10668,0.5753547331002331
+weakly_clustered,0.225,40,-0.031201,0.13210821316548943
