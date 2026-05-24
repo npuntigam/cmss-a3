@@ -1,4 +1,4 @@
-# CMSS A3
+# CMSS Group Project
 
 Simulation code for the Computational Models of Social Systems assignment.
 
